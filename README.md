@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 📚 Sou estudante de Analise e desenvolvimento de sistemas
-- 🔭 Atualmente estou trabalhando em vendas...
+- 🔭 Atuo na area de suporte de software...
 - 🎯 Me aprofundando em HTML e CSS
 <div>
 <a href="https://github.com/BiancaMariano0">
